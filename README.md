@@ -13,8 +13,14 @@ This project implements a wireless sound controller using hand gestures as input
 - NumPy: Efficient numerical computations
 - comtypes & pycaw: Audio control libraries for adjusting system volume
 
-### Installation
+### __Installation__
 1. clone the repository
-   - git clone 
-3. run the scripts
+   - git clone https://github.com/siddharth0142/HandWave-Gesture-Based-Audio-Control.git
+2. run the scripts
+   - python HandWave_Gesture_Based_Audio_Control.py
 
+
+
+### __Output__ 
+
+![output_1](https://github.com/user-attachments/assets/e6826385-c918-44f2-a568-4308ef20a836)
